@@ -4,8 +4,7 @@ Instructor: Dr. Muhammad Syafrudin
 
 ### Course information
 
-This course is intended to introduce the industrial and systems engineering students through problem solving and computer programming. Selected topics are covered through basic concept/theory and hands-on (practical) programming in the Python language version 3. The core material for this course includes but not limited to data types and expressions, loops and selection statements, strings, and input output (I/O), graphical user interface (GUI), database and web development, etc. Programming techniques covered in this course include but not limited to modularity, abstraction, top-down design, debugging, and testing. No prior programming experience is required. At the end of the course you will be expected to have the ability to:
-
+This course is intended for students who want to learn big data and its technology. Objectives of this course are as follows:
 - Introduce students the concept of big data and its technology
 - Allow students to experience some of existing big data technology
 - Assist students to apply data analytics using big data technology
