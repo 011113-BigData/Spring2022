@@ -37,9 +37,20 @@ Schedule
 | 1	|Course introduction and prospects	| 강의 (Lecture)|
 | 2	|Introduction to Big Data |강의 (Lecture)|
 | 3	|Big Data storage|	강의 (Lecture)|
+| 4	|NoSQL database|	강의 (Lecture)|
+| 5	|Big Data processing|	강의+실습 (Lecture + Practice)|
+| 6	|Hadoop and its ecosystems|	강의+실습 (Lecture + Practice)|
+| 7	|Big Data analytics|	강의+실습 (Lecture + Practice)|
+| 8 |Mid exam	|	시험 (Exam)|
+| 9	|Big Data analytics with machine learning|	강의+실습 (Lecture + Practice)|
+| 10	|Cluster analysis|	강의+실습 (Lecture + Practice)|
+| 11	|Big Data visualization|	강의+실습 (Lecture + Practice)|
+| 12	|Big Data practice I|	실습 (Practice)|
+| 13	|Big Data practice II|	실습 (Practice)|
+| 14	|Group project discussion and development|	실습 (Practice)|
+| 15	|Group project discussion and development|	실습 (Practice)|
+| 16	|Project presentation/demonstration|	실습 (Practice)|
 
-
-*to be updated soon..
 
 ### Grading
 
