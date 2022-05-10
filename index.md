@@ -13,7 +13,7 @@ study and develop/utilize big data technology to solve them.
 
 ### Lecture
 
-Tue, Thu at 9:00‐10:30 am KST via Real-time Webex
+Tue, Thu at 9:00‐10:30 am KST via *Hybrid class: Online Real-time Webex & Offline class at B209, starting May 3rd till the end of the semester*
 
 ### Office hours
 
