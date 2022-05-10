@@ -89,7 +89,7 @@ Homework is due before each class. Late submission are not allowed.
 
 ### Communication to students
 
-Class announcements will be through e-Class. All homework and quizzes will be posted in blackboard. Also all feedback forms. Important note: make sure you have your settings set so you can receive emails from blackboard.
+Class announcements will be through blackboard. All homework and quizzes will be posted in blackboard. Also all feedback forms. Important note: make sure you have your settings set so you can receive emails from blackboard.
 
 ### Academic honesty
 
